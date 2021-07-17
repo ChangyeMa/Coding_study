@@ -1,0 +1,11 @@
+astroid==2.5.2
+colorama==0.4.4
+Django==2.1.2
+isort==5.8.0
+lazy-object-proxy==1.6.0
+mccabe==0.6.1
+pylint==2.7.4
+PyMySQL==1.0.2
+pytz==2021.1
+toml==0.10.2
+wrapt==1.12.1
