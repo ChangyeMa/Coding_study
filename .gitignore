@@ -116,4 +116,4 @@ dmypy.json
 .pyre/
 
 # ignore the secret_info file
-/djangoProject/secret_info
+/djangoProject/secret_info.py
