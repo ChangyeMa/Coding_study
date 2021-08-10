@@ -114,3 +114,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore the secret_info file
+/djangoProject/secret_info
